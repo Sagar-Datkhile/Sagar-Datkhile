@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Sagar Datkhile</h1>
-<h3 align="center"> MERN Stack Developer | Open-Source Contributor | Performance-Driven Engineer</h3>
+<h3 align="center"> MERN Stack Developer | Open-Source Contributor | Computer Engineer</h3>
 
 <p align="center">
   Building scalable, high-performance web applications with clean UI, solid architecture, and real-world impact.
