@@ -18,20 +18,7 @@ Internship at **Civora Nexua Pvt. Ltd.**, where I build real-world solutions usi
 👯 **Looking to Collaborate On**  
 MERN stack and full-stack projects, impactful open-source contributions, and scalable applications using **React, Node.js, Supabase, Firebase, and Next.js**.
 
-🤝 **Looking for Help With**  
-Scaling open-source initiatives at Team Radiant, **cloud deployment optimizations** (Vercel, Netlify, Supabase), and advanced UI performance patterns with **React Query & Tailwind CSS**.
-
-🌱 **Currently Learning**  
-Advanced cloud technologies (Supabase, Firebase), **Next.js integrations**, and deep performance techniques such as **lazy loading, Vite build optimization, and bundle splitting**.
-
-💬 **Ask Me About**  
-MERN stack best practices, React & Node architecture, API integrations, GitHub workflows, and lessons learned during my **TechnoHacks internship**.
-
-⚡ **Fun Fact**  
-During my TechnoHacks internship, I significantly improved page load performance on media-heavy applications by mastering **lazy loading and image compression**, turning a bottleneck into a strength.
-
 ---
-
 ## 🌐 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?logo=portfolio)](https://sagardatkhile.vercel.app/)
