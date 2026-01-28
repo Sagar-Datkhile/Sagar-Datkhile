@@ -5,6 +5,9 @@
   Building scalable, high-performance web applications with clean UI, solid architecture, and real-world impact.
 </p>
 
+
+
+
 ---
 
 ## 💫 About Me
@@ -38,6 +41,7 @@ During my TechnoHacks internship, I significantly improved page load performance
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32111483)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sagar__ai)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sagardatkhile.official@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=Sagar-Datkhile&label=Profile%20Views&color=0e75b6&style=flat" />
 
 ---
 
