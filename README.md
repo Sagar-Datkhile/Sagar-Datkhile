@@ -82,18 +82,6 @@ During my TechnoHacks internship, I significantly improved page load performance
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Sagar-Datkhile&theme=dark&no-bg=true&margin-w=4)
-
----
-
-## 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=Sagar-Datkhile&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=Sagar-Datkhile&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
