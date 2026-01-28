@@ -86,7 +86,9 @@ During my TechnoHacks internship, I significantly improved page load performance
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Sagar-Datkhile&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🔥 Contributions 
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sagar-Datkhile&theme=github-dark&hide_border=true)
 
 ---
 
