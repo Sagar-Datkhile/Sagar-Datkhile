@@ -9,8 +9,8 @@
 
 ## 💫 About Me
 
-🔭 **Currently Working On**  
-Open-source projects at **Team Radiant** (student-led initiative), where I build real-world solutions using modern frameworks. My work focuses on **responsive UI design, performance optimization, and collaborative GitHub workflows**.
+🔭 **Currently Working For**  
+Internship at **Civora Nexua Pvt. Ltd.**, where I build real-world solutions using modern frameworks. My work focuses on **responsive UI design, performance optimization, and collaborative GitHub workflows**.
 
 👯 **Looking to Collaborate On**  
 MERN stack and full-stack projects, impactful open-source contributions, and scalable applications using **React, Node.js, Supabase, Firebase, and Next.js**.
