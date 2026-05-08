@@ -21,11 +21,9 @@ MERN stack and full-stack projects, impactful open-source contributions, and sca
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 
-  <a href="https://github.com/Sagar-Datkhile/Sagar-Datkhile/raw/main/assets/Sagar_Datkhile_Resume.pdf" download>
+ <a href="https://github.com/Sagar-Datkhile/Sagar-Datkhile/raw/main/assets/Sagar_Datkhile_Resume.pdf" download>
   <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=googledrive&logoColor=white" />
 </a>
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
-  </a>
 
   <a href="https://linkedin.com/in/sagar-datkhile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
