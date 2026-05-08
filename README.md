@@ -86,9 +86,9 @@ MERN stack and full-stack projects, impactful open-source contributions, and sca
 
 ## 🔥 Contributions 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sagar-Datkhile&theme=github-dark&hide_border=true)
-
+![Snake animation](https://raw.githubusercontent.com/Sagar-Datkhile/Sagar-Datkhile/output/github-contribution-grid-snake-dark.svg)
 ---
+
 
 ## 💰 Support My Work
 
