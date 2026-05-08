@@ -65,15 +65,6 @@ MERN stack and full-stack projects, impactful open-source contributions, and sca
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sagar-Datkhile&theme=dark&hide_border=true&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Sagar-Datkhile&theme=dark&hide_border=true" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-Datkhile&theme=dark&hide_border=true&layout=compact" />
-</p>
-
----
-
 ## 🧠 LeetCode Stats  
 <p align="center">
   <a href="https://leetcode.com/sagar__datkhile/">
