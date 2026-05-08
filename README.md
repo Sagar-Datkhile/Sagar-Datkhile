@@ -33,10 +33,7 @@ MERN stack and full-stack projects, impactful open-source contributions, and sca
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="https://stackoverflow.com/users/32111483" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-  </a>
-
+  
   <a href="https://x.com/Sagar__ai" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
