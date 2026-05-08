@@ -1,16 +1,11 @@
-<h1 align="center">Hey 👋, I'm Sagar Datkhile</h1>
-<h3 align="center"> MERN Stack Developer | Open-Source Contributor | Computer Engineer</h3>
-
-<p align="center">
-  Building scalable, high-performance web applications with clean UI, solid architecture, and real-world impact.
-</p>
-
+<h1 align="center">Hey There, I'm Sagar Datkhile</h1>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" />
+<!-- <h3 align="center"> MERN Stack Developer | Open-Source Contributor | Computer Engineer</h3> -->
+<h2 align="center" style="font-family:Poppins; font-size:30px; font-weight:600; color:#FFFFFF;">Also Known As <span><br></span>
+  MERN Stack Developer | Open-Source Contributor | Computer Engineering Student</h2>
 
 
-
----
-
-## 💫 About Me
+<h2 align="center">💫 About Me</h2>
 
 🔭 **Currently Working For**  
 Internship at **Amdox Technologies**, where I build real-world solutions using modern frameworks. My work focuses on **responsive UI design, performance optimization, and collaborative GitHub workflows**.
@@ -19,53 +14,173 @@ Internship at **Amdox Technologies**, where I build real-world solutions using m
 MERN stack and full-stack projects, impactful open-source contributions, and scalable applications using **React, Node.js, Supabase, Firebase, and Next.js**.
 
 ---
-## 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?logo=portfolio)](https://sagardatkhile.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-Link-blue?)](https://drive.google.com/file/d/1owy9twrLQw0cQQGaJSmw1N5TKq8t_jiM/view)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sagar__datkhile)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-datkhile)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32111483)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sagar__ai)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sagardatkhile.official@gmail.com)
-<img src="https://komarev.com/ghpvc/?username=Sagar-Datkhile&label=Profile%20Views&color=0e75b6&style=flat" />
+<p align="center">
+  <a href="https://sagardatkhile.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
 
----
+  <a href="https://github.com/Sagar-Datkhile/Sagar-Datkhile/raw/main/assets/Sagar_Datkhile_Resume.pdf" download>
+  <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=googledrive&logoColor=white" />
+</a>
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
 
-## 💻 Tech Stack
+  <a href="https://linkedin.com/in/sagar-datkhile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white)
+  <a href="https://instagram.com/sagar__datkhile" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=plastic&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
+  <a href="https://stackoverflow.com/users/32111483" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>
 
-### Backend & Cloud
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=plastic&logo=express)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazon-aws&logoColor=white)
+  <a href="https://x.com/Sagar__ai" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
 
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=plastic&logo=apache&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=plastic&logo=canva&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)
+  <a href="mailto:sagardatkhile.official@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sagar-Datkhile&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
 
-## 🧠 LeetCode Stats  
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=java" width="65"/><br>
+<b>Java</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=javascript" width="65"/><br>
+<b>JavaScript</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="65"/><br>
+<b>Python</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=cpp" width="65"/><br>
+<b>C++</b>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html" width="65"/><br>
+<b>HTML5</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=css" width="65"/><br>
+<b>CSS3</b>
+</td>
+f
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=react" width="65"/><br>
+<b>React</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nextjs" width="65"/><br>
+<b>Next.js</b>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vite" width="65"/><br>
+<b>Vite</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=tailwind" width="65"/><br>
+<b>Tailwind CSS</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nodejs" width="65"/><br>
+<b>Node.js</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=express" width="65"/><br>
+<b>Express.js</b>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=firebase" width="65"/><br>
+<b>Firebase</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=supabase" width="65"/><br>
+<b>Supabase</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=aws" width="65"/><br>
+<b>AWS</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="65"/><br>
+<b>MySQL</b>
+</td>
+</tr>
+
+<td align="center" width="120">
+  <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="65"/><br>
+  <b>XAMPP</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=md" width="65"/><br>
+<b>Markdown</b>
+</td>
+
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=figma" width="65"/><br>
+  <b>Canva</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="65"/><br>
+<b>Git</b>
+</td>
+</tr>
+</table>
+<!-- <p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=java" height="65"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=javascript" height="65"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python" height="65"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cpp" height="65"></a>
+</p>
+
+
+
+<!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" /> -->
+
+---
+
+<h2 align="center">🧠 LeetCode Stats</h2>  
 <p align="center">
   <a href="https://leetcode.com/sagar__datkhile/">
     <img src="https://leetcard.jacoblin.cool/sagar__datkhile?theme=dark&font=Tinos&ext=heatmap" />
@@ -75,18 +190,31 @@ MERN stack and full-stack projects, impactful open-source contributions, and sca
 
 ---
 
-## 🔥 Git-Hub Contributions 
+<h2 align="center">🔥 Git-Hub Contributions</h2>
 
-![Snake animation](https://raw.githubusercontent.com/Sagar-Datkhile/Sagar-Datkhile/output/github-contribution-grid-snake-dark.svg)
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sagar-Datkhile/Sagar-Datkhile/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 
-## 💰 Support My Work
+<h2 align="center">💰 Support My Work</h2>
 
-If you like my work and want to support my open-source efforts:
+<div align="center">
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sagardatkhile)
+<h3>If you like my work and want to support my open-source efforts:</h3>
 
----
+<a href="https://buymeacoffee.com/sagardatkhile">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
 
-⭐ *Always open to meaningful collaborations and impactful ideas.*
+<br>
+<div align="center">
+
+## 💡 Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+⭐ <i>Always open to meaningful collaborations and impactful ideas.</i>
+
+</div>
