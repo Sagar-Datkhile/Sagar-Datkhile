@@ -84,7 +84,7 @@ MERN stack and full-stack projects, impactful open-source contributions, and sca
 
 ---
 
-## 🔥 Contributions 
+## 🔥 Git-Hub Contributions 
 
 ![Snake animation](https://raw.githubusercontent.com/Sagar-Datkhile/Sagar-Datkhile/output/github-contribution-grid-snake-dark.svg)
 ---
