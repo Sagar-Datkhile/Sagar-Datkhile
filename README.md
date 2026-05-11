@@ -85,7 +85,7 @@ MERN stack and full-stack projects, impactful open-source contributions, and sca
 <img src="https://skillicons.dev/icons?i=css" width="65"/><br>
 <b>CSS3</b>
 </td>
-f
+
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=react" width="65"/><br>
 <b>React</b>
@@ -153,7 +153,7 @@ f
 
 <td align="center" width="120">
   <img src="https://skillicons.dev/icons?i=figma" width="65"/><br>
-  <b>Canva</b>
+  <b>Figma</b>
 </td>
 
 <td align="center" width="120">
