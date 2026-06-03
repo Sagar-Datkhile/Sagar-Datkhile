@@ -7,9 +7,9 @@
 
 <h2 align="center">💫 About Me</h2>
 
-🔭 **Currently Working For**  
+<!--🔭 **Currently Working For**  
 Internship at **Amdox Technologies**, where I build real-world solutions using modern frameworks. My work focuses on **responsive UI design, performance optimization, and collaborative GitHub workflows**.
-
+-->
 👯 **Looking to Collaborate On**  
 MERN stack and full-stack projects, impactful open-source contributions, and scalable applications using **React, Node.js, Supabase, Firebase, and Next.js**.
 
